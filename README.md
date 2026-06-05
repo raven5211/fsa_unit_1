@@ -1,2 +1,2 @@
 # fsa_unit_1
-first unit of the FSA coding academy
+first unit of the FSA coding bootcamp
