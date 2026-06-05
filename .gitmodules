@@ -1,0 +1,21 @@
+[submodule "block01"]
+	path = block01
+	url = https://github.com/raven5211/fsa_block_1_01.git
+[submodule "block02"]
+	path = block02
+	url = https://github.com/raven5211/fsa_block_1_02.git
+[submodule "block03"]
+	path = block03
+	url = https://github.com/raven5211/fsa_block_1_03.git
+[submodule "block04"]
+	path = block04
+	url = https://github.com/raven5211/fsa_block_1_04.git
+[submodule "block05"]
+	path = block05
+	url = https://github.com/raven5211/fsa_block_1_05.git
+[submodule "block06"]
+	path = block06
+	url = https://github.com/raven5211/fsa_block_1_06.git
+[submodule "block07"]
+	path = block07
+	url = https://github.com/raven5211/fsa_block_1_07.git
